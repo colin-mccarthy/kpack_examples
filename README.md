@@ -14,3 +14,7 @@
  kpack Tutorial 
  
  `https://github.com/pivotal/kpack/blob/main/docs/tutorial.md`
+ 
+ TGIK Episode
+ 
+ `https://www.youtube.com/watch?v=4zkRX9PSJ5k`
